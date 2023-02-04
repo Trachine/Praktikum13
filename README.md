@@ -1,7 +1,7 @@
 # Tugas Praktikum 13
 
 ### Python PIP
-PIP merupakan package manager untuk mengelola package dan model pada python. Dengan menggunakan PIP, kita dapat menggunakan library yang tersedia bebas dari direktory package library python. Untuk dapat menggunakan PIP, perlu diinstall dahulu, silahkan kunjungi tautan berikut untuk sposes instalasinya:
+PIP merupakan package manager untuk mengelola package dan model pada python. Dengan menggunakan PIP, kita dapat menggunakan library yang tersedia bebas dari direktory package library python. Untuk dapat menggunakan PIP, perlu diinstall dahulu, silahkan kunjungi tautan berikut untuk proses instalasinya:
 [https://pypi.org/project/pip](https://pypi.org/project/pip)
 
 ### Perintah Dasar PIP
